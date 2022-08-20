@@ -23,6 +23,4 @@ Twitter: https://twitter.com/PandorianMC
 
 ## Other
 
-PandorianGemsAPI: https://github.com/PandorianMC/PandorianGemsAPI
-
 More infomation should be added here soon.
