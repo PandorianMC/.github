@@ -13,11 +13,11 @@ Developer: @Zach.#6436 (ID: 275139023394177024)
 Developer: @RyanMoodGAMING#7386 (ID: 531386361748520970)      
 Developer: @Benjamin Andrews#7477 (ID: 466586139638235166)
 
-> If for whatever reason you are unable to reach us please create a support ticket on our [discord](https://pandorianmc.net/discord).
+> If for whatever reason you are unable to reach us please create a support ticket on our [discord](https://discord.pandorianmc.net).
 
 ## Socials 
 
-Discord: https://pandorianmc.net/discord
+Discord: https://discord.pandorianmc.net
 
 Twitter: https://twitter.com/PandorianMC
 
